@@ -1,7 +1,7 @@
 Package: tabbycat
 Type: Package
 Title: Tabulate and Summarise Categorical Data
-Version: 0.17.0
+Version: 0.18.0
 Authors@R: 
     person(
         given = "Oliver",
@@ -20,11 +20,11 @@ Depends: R (>= 3.4.0)
 Imports: dplyr (>= 1.0.0), janitor, magrittr, purrr, rlang, stringr,
         tibble, tidyr
 Encoding: UTF-8
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-11-22 12:13:16 UTC; oli
+Packaged: 2023-08-22 19:11:18 UTC; oli
 Author: Oliver Hawkins [aut, cre]
 Repository: CRAN
-Date/Publication: 2021-11-23 07:50:02 UTC
+Date/Publication: 2023-08-22 19:30:02 UTC

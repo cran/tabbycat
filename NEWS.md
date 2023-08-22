@@ -1,3 +1,9 @@
+# tabbycat 0.18.0
+
+* No breaking changes
+* No new functions
+* Existing internal code has been updated to remove deprecated uses of third-party packages
+
 # tabbycat 0.17.0
 
 * Initial CRAN release
